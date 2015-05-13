@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Biorelated
+title:            biorelated
 tagline:          'A weblog'
 description:      'A bioinformatics blog'
-url:              http://biorelated.com
+url:              http://biorelated.github.io
 baseurl:          /
 
 author:
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          0.0.1
 
 github:
   repo:           https://github.com/biorelated
