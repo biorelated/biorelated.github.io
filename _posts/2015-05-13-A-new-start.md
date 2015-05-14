@@ -8,6 +8,6 @@ I took a bold step to start on a PhD programme. I took a bold step to fall in lo
 
 I have interracted with some of the smartest  and gifted people in the world and made life long friends with very talented persons. I have travelled a bit and found new places and cultures. My greatest journey has been fatherhood. It is far from over and I hope to chronicle relevant bits and pieces here. 
 
-And the same time I have missed a few opportnunities, the startup company that asked me to join them but I declined. My startup ideas that I never had time to complete. Lost a couple of friendships as well. 
+And the same time I have missed a few opportnunities; The startup company that I declined to join. The startup ideas that I never completed. Friendships that decayed.  
 
-The reality of life is that you take either the blue or the red pill wearing a blind fold. Maybe there is no blue or red pill.  
+We like to think that life is a blue or the red pill.  I think the pills are presented with a blindfold. Maybe there is no blue or red pill.  
