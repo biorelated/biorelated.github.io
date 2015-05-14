@@ -8,6 +8,6 @@ I took a bold step to enroll on a PhD program. I took a bold step to fall in lov
 
 I have interracted with some of the smartest  and gifted people in the world and made life long friends with very talented persons. I have travelled a bit and found new places and cultures. My greatest journey has been fatherhood. It is far from over and I hope to chronicle relevant bits and pieces here. 
 
-And the same time I have missed a few opportnunities; The startup company that I declined to join. The startup ideas that I never completed. Friendships that decayed.  
+At the same time I have missed a few opportnunities; The startup company that I declined to join. The startup ideas that I never completed. I let some friendships decay.  
 
-Some people prefer to think of life as a blue or a red pill.  To some the pills are presented when they are in blindfolds. To others there are no blue or red pills. 
+Some people prefer to think of life as a blue or a red pill, others prefer the daily excitement, the uncertainity of nature and the chaos that give an illusion of an order. 
