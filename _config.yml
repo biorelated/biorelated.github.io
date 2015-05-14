@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            biorelated
-tagline:          'A weblog'
-description:      'A bioinformatics blog'
+tagline:          'The biorelated blog'
+description:      'Bioinformatics and related topics'
 url:              http://biorelated.github.io
 baseurl:          /
 
