@@ -7,4 +7,4 @@ title: About
   Hey! My name is biorelated and I love warm hugs! 
 </p>
 
-Thanks for reading!
+This blog contains technical notes and insightful things that I have learnt in life. Mostly from personal failures. 
