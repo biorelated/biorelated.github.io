@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: A fresh start
 ---
 Over the last couple of years, I have learnt a lot, I have made mistakes and I have missed nice opportunities. It feels refreshing to "burn" the past, to start on a "clean slate". It is important not to forget why the previous slates were discarded.
