@@ -4,7 +4,7 @@ comments: false
 title: A fresh start
 ---
 {% include image.html
-  img="images/rainbow.jpg"
+  img={{ site.url }}/images/rainbow.jpg
   title="A rainbow"
   caption="A rainbow through our bedroom window." 
     %}
