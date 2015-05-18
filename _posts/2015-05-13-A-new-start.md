@@ -3,9 +3,9 @@ layout: post
 comments: false
 title: A fresh start
 ---
-/*
-{% include image.html img="/assets/images/rainbow.jpg" title="Rainbow" caption="Formal education teaches how to stand, but to see the rainbow you must come out and walk many steps on your own. ― Amit Ray, Nonviolence: The Transforming Power" %}
-*/
+
+{% include image.html img="assets/images/rainbow.jpg" title="Rainbow" caption="Formal education teaches how to stand, but to see the rainbow you must come out and walk many steps on your own. ― Amit Ray, Nonviolence: The Transforming Power" %}
+
 
 Over the last couple of years, I have learnt a lot, I have made mistakes and sometimes missed opportunities. It is refreshing to "burn" the past, to start on a "clean slate".
 Old slates cannot be fully discarded though.
