@@ -4,10 +4,9 @@ comments: false
 title: A fresh start
 ---
 
-{% include image.html img="assets/images/rainbow.jpg" title="Rainbow" caption="" %}
 <p class="message">
-Formal education teaches how to stand, but to see the rainbow you must come out and walk many steps on your own.
--Amit Ray, Nonviolence: The Transforming Power
+"Sometimes it's important to work for that pot of gold. But other times it's essential to take time off and to make sure that your most important decision in the day simply consists of choosing which color to slide down on the rainbow."
+― Douglas Pagels, These Are the Gifts I'd Like to Give to You: A Sourcebook of Joy and Encouragement
 </p>
 
 
