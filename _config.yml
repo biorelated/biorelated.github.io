@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            biorelated
 tagline:          'The biorelated blog'
 description:      'Musings of an African bioinformatician'
-url:              http://biorelated.github.io
+url:              http://biorelated.com
 baseurl:          /
 
 author:
