@@ -11,7 +11,7 @@ title: A fresh start
 
 
 Over the last couple of years, I have learnt a lot, I have made mistakes and sometimes missed opportunities. It is refreshing to "burn" the past, to start on a "clean slate".
-Old slates cannot be fully discarded though.
+A few old slates are difficult to totally discard.
 
 It took bold steps to enroll on a PhD program, fall in love, start a family and finish the PhD program even when funding was exhausted. Now I am very close to submitting the written thesis.
 
@@ -19,6 +19,6 @@ During this period, I have interacted with some of the smartest and gifted peopl
 
 Along the way, I have missed a few opportunities; the startup company that I declined to join, the startup ideas that I never followed or completed and the friendships that I let decay.
 
-It is easy to think of life as either a blue or a red pill, But I think it is better to prefer the daily excitement, the uncertainty of nature and the chaos that usher an orderly illusion. A fresh start.
+It is easy to consider life as a blue or a red pill, But I think it is better to prefer the daily excitement, appreciate the uncertainty of life and grapple chaos to usher an orderly illusion. A fresh start.
 
 {% include twitter_plug.html %}
