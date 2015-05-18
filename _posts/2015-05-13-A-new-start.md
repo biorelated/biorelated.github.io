@@ -5,7 +5,7 @@ title: A fresh start
 ---
 
 {% include image.html img="assets/images/rainbow.jpg" title="Rainbow" caption="" %}
-<p>
+<p class="message">
 Formal education teaches how to stand, but to see the rainbow you must come out and walk many steps on your own.
 -Amit Ray, Nonviolence: The Transforming Power
 </p>
