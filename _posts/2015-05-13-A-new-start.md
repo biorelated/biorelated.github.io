@@ -3,11 +3,8 @@ layout: post
 comments: false
 title: A fresh start
 ---
-{% include image.html
-  img={{ site.url }}/images/rainbow.jpg
-  title="A rainbow"
-  caption="A rainbow through our bedroom window." 
-    %}
+
+![A rainbow]({{ site.url }}/images/rainbow.jpg)
 
     Over the last couple of years, I have learnt a lot, I have made mistakes and sometimes missed opportunities. It is refreshing to "burn" the past, to start on a "clean slate". Old slates cannot be fully discarded though.
 
