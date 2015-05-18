@@ -12,3 +12,5 @@ I have interracted with some of the smartest and gifted people in the world and 
 At the same time I have missed a few opportnunities; The startup company that I declined to join. The startup ideas that I never followed or completed. The friendships that I let decay.  
 
 Some people prefer to think of life as a blue or a red pill, others prefer the daily excitement, the uncertainity of nature and the chaos that give an illusion of order. A fresh start.
+
+{% include twitter_plug.html %}
