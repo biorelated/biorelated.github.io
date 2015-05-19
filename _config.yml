@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            biorelated
 tagline:          'The biorelated blog'
-description:      'Musings of an African bioinformatician'
+description:      'Musings of an Kenyan bioinformatician'
 url:              http://biorelated.com
 baseurl:          /
 
