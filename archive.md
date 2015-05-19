@@ -1,11 +1,28 @@
 ---
 layout: page
-title: Archive
+title: Post Archives
 ---
 
-# Blog articles
-
+<section id="archive">
+<h3>This year's posts</h3>
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ] ({{ post.url }})
-  {% endfor %}
+{% unless post.next %}
+<ul class="this">
+{% else %}
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+{% if year != nyear %}
+</ul>
+<h3>{{ post.date | date: '%Y' }}</h3>
+<ul class="past">
+{% endif %}
+{% endunless %}
+{% if post.external-url %}
+<li><time>{{ post.date | date:"%F" }}</time> <a href="{{ post.external-url | xml_escape }}" title="{{ post.title | xml_escape }}">{{ post.title | truncate: 40, "..." | xml_escape }}</a></li>
+{% else %}
+<li><time>{{ post.date | date:"%F" }}</time> <a href="{{ post.url | xml_escape }}" title="{{ post.title | xml_escape }}">{{ post.title | truncate: 40, "..." | xml_escape }}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</section>
 
