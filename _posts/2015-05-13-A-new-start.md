@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: A fresh start
+title: Beginning afresh
 ---
 
 <p class="message">
@@ -19,6 +19,6 @@ During this period, I have interacted with some of the smartest and gifted peopl
 
 Along the way, I have missed a few opportunities; the startup company that I declined to join, the startup ideas that I never followed or completed and the friendships that I let decay.
 
-It is easy to consider life as a blue or a red pill, But I think it is better to prefer the daily excitement, appreciate the uncertainty of life and grapple chaos to usher an orderly illusion. A fresh start.
+It is easy to consider life as a blue or a red pill, But I think it is better to prefer the daily excitement, appreciate the uncertainty of life and grapple chaos and usher an illusion of order.
 
 {% include twitter_plug.html %}
