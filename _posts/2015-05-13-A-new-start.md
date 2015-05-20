@@ -13,7 +13,7 @@ title: Beginning afresh
 Over the last couple of years, I have learnt a lot, I have made mistakes and sometimes missed opportunities. It is refreshing to "burn" the past, to start on a "clean slate".
 A few old slates are difficult to totally discard.
 
-It took bold steps to enroll on a PhD program, fall in love, start a family and finish the PhD program even when funding was exhausted. Now I am very close to submitting the written thesis.
+I took bold steps to enroll on a PhD program, fall in love, start a family and finish the PhD program even when funding was exhausted. Now I am very close to submitting the written thesis.
 
 During this period, I have interacted with some of the smartest and gifted people in the world and made life long friends with very talented persons. I have travelled a little and found amazing people, places and cultures. My greatest journey has been fatherhood. It is far from over and I hope to chronicle relevant bits and pieces here. 
 
