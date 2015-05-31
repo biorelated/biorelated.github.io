@@ -30,3 +30,6 @@ and yield new insights and perspectives.
 
 In the past, the human mind placed a bottleneck on the number of calculations and logical units it could process per unit time.
 We have now invented powerful numerical machines that overcome this hurdle. It is both a cause of excitement and concern.
+
+{% include twitter_plug.html %}
+
