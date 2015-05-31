@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: On Science and humankind
+title: On science and mankind
 ---
 <p class="message">
 It would be possible to describe everything scientifically, but it would make no sense; 
@@ -10,9 +10,8 @@ it would be without meaning, as if you described a Beethoven symphony as a varia
 </p>
 
 My good friend Siwo, discussed some limitations of science in a [blog post](https://www.linkedin.com/pulse/understanding-limits-science-key-solving-grand-challenges-siwo?trk=hb_ntf_MEGAPHONE_ARTICLE_POST).
-He outlined some limitations of science
-that emanate from what he referred to as the fundamental human nature, 
-limits of our current knowledge, and the extent of observable and 
+He outlined limitations that emanate from human nature, 
+limits in current knowledge, and the extent of observable and 
 measurable universe. Some authorities claim that the limits science lie in the inability to:
 
 * Assess the aesthetic value of an object,
