@@ -31,7 +31,7 @@ Here is a snippet of code that I was using to print four ggplot2 objects on a 2 
 
 {% endhighlight %}
 
-With cowplot I can reduce the seven lines of code to just a single line one! This may not seem a lot, but for the sake
+With cowplot I can reduce the seven lines of code to just a single line! This may not seem a lot, but for the sake
 of brevity, beauty and intent, I think it is a big deal.
 
 {% highlight r %}
