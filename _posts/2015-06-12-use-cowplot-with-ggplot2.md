@@ -4,13 +4,13 @@ comments: false
 title: Publication quality plots with cowplot
 ---
 
-I often turn to [ggplot2](http://docs.ggplot2.org/current/) for creating statistical plots.
+I often turn to the [ggplot2 R package](http://docs.ggplot2.org/current/) for creating statistical plots.
 (Read Hadley's excellent tutorial on [how to build a plot with ggplot2](https://rpubs.com/hadley/ggplot2-layers)). 
-Ggplot2 is an implementation of the [grammar of graphics](http://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098),
+ggplot2 is an implementation of the [grammar of graphics](http://www.tandfonline.com/doi/abs/10.1198/jcgs.2009.07098),
 a concise approach for describing the components of a graphic.
 
-It often takes extra effort to arrange ggplot2 objects on a grid. On many occasions,  the code looks like a hack.
-In addition, R does not offer very clean syntax and therefore the code can be difficult to read and understand.
+It often takes extra effort to arrange ggplot2 objects on a grid. Sometimes the code may look like a hack or unpolished.
+This is partly due to the fact that R does not offer very clean syntax and therefore code can be difficult to read and understand.
 Here is a snippet of code that I was using to print four ggplot2 objects on a 2 x 2 grid.
 
 {% highlight r %}
@@ -31,8 +31,8 @@ Here is a snippet of code that I was using to print four ggplot2 objects on a 2 
 
 {% endhighlight %}
 
-With cowplot I can reduce the seven lines of code to just a single line! This may not seem a lot, but for the sake
-of brevity, beauty and intent, I think it is a big deal.
+Using the recent [cowplot](https://github.com/wilkelab/cowplot) R package, the seven lines of code are reduced to a single line! 
+This may not seem a lot, but for the sake of brevity, beauty and intent, I think it is a big deal.
 
 {% highlight r %}
   
@@ -40,8 +40,8 @@ of brevity, beauty and intent, I think it is a big deal.
 
 {% endhighlight %}
 
-The above code is more legible than the previous code. The code also places labels to each plot, which 
-is a winner feature for publication quality graphics. Many journals and reviewers expect well labelled graphics.
-Cowplot offers many excellent defaults and it can [do a tonne more](http://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html).
+The above code is more legible than the previous code. The code also places labels against each plot. This is a
+winner feature for publication quality graphics. Many journals and reviewers expect well labelled graphics.
+Cowplot offers [several other features](http://cran.r-project.org/web/packages/cowplot/vignettes/introduction.html).
 
 {% include twitter_plug.html %}
