@@ -18,17 +18,15 @@ measurable universe. Some authorities claim that the limits science lie in the i
 * Measure morality, and
 * Account for the supernatural
 
-Aesthetics, morality and supernatural concepts emerge as intrinsic evolutionary traits and act in the interest of preserving or structuring a community.
-The supernatural is often an abstract concept to explain natural phenomena. Unfortunately it falls prey to dogma. Dogma is not unique 
-to the supernatural, it is part of the scientific method. However, scientific dogma is open to criticism and is often reviewed in the light of new evidence and proof.
+Aesthetics, morality and supernatural concepts emerge to preserve or structure a community. More often they propagate a strongly held opinion that strengthens social-political and geopolitical interests and agenda.
+The supernatural as an abstract concept explains natural phenomena and is riddled with unchallenged dogma. But dogma is not limited to the supernatural, it forms a central component of the scientific method. The difference is that scientific dogma is open to criticism and is reviewed in the light of new data, evidence or proof.
 
-Human beings use the basic senses to put into perspective what they can observe or measure. Anything that falls off the senses is described as abstract purely because we cannot fathom it with our basic senses. Often we may describe such concepts as difficult and at worst discard or refute them.
-The limit to understanding our universe is in the extent to which we can "visualize" the abstract. Mathematics is indispensable in 
-understanding the laws that govern the known universe. Equations push the limits of the abstract and the unconventional, invent new symbols
-and yield new insights and perspectives. 
+Humans make observations and measurements based that are dependent on their senses and brain interpretation of the world or universe if you like. What cannot be observed and measured directly is often interpreted as "abstract", or "non-existent". The limit to understanding our universe is in the extent to which we can "visualize" the abstract. And that is why mathematical tools
+are indispensable in understanding the laws that govern the universe. The abstract notions and equations yield novel theories, insights and perspectives.
 
-In the past, the human mind placed a bottleneck on the number of calculations and logical units it could process per unit time.
-We have now invented powerful numerical machines that overcome this hurdle. It is both a cause of excitement and concern.
+The human mind is a fantastic logical machine but is limited by number of calculations it can process per unit time.
+But now we have powerful numerical machines that are a cause of excitement and concern and that are going to stir 
+the moral and cultural pot for a while.
 
 {% include twitter_plug.html %}
 
