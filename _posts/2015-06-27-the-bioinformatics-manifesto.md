@@ -1,3 +1,9 @@
+---
+layout: post
+comments: false
+title: The bioinformatics manifesto
+---
+
 Software development is complex and as you would expect there are [several software development approaches](http://www.quora.com/What-is-are-the-best-software-development-philosophy-ies), philosophies and principles. Most organisations ascribe to one or more of these approaches. The Agile and the Unix philosophies are widely adopted in most organisations and by individuals.
 
 The Unix philosophy advocates for programs that do one thing very well. Programs that work together and provide universal interfaces and in particular to text streams. The idea stems from years of experience developing the Unix tools. The Unix philosophy it is not a written manifesto that you have to ascribe to or sign, it is a respected tradition that organically grew from writing the early Unix operating system and associated tools.
@@ -17,3 +23,5 @@ it disappears with total disregard to the current and potential users. Releases 
 So will small tools for bioinformatics deliver? That remains to be seen. But first it has to gain a wide adoption and acceptance. As of this writing,
 48 bioinformaticians have [publicly signed the manifesto](https://github.com/pjotrp/bioinformatics). 
 It is a rational approach to start weeding and pruning the thorny garden of bioinformatics software. It does not advocate for new fangled ideas or philosophy, it is a call to remain true to tested approaches in software development.
+
+{% include twitter_plug.html %}
