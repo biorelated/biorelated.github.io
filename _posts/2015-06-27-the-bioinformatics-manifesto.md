@@ -12,7 +12,8 @@ The [Agile manifesto](https://en.wikipedia.org/wiki/Agile_software_development) 
 
 With maturation as a scientific discipline, a pride in Unix and Linux tradition with a rich client base of biologists, you would be mistaken to think that most bioinformatics tools would embrace the Unix philosophy and apply the Agile process. Instead, bioinformatics software is a thorny garden. The field is comparable to a half sinking ship that magically remains afloat and somehow manages to deliver cargo. Often the passengers take the wheel for an adrenaline serge with undesirable consequences.
 
-I think this is what has led to the current efforts to establish a bioinformatics software philosophy and written manifesto, the bioinformatics manifesto aka [small tools for bioinformatics](https://github.com/pjotrp/bioinformatics). It begins by stating that bioinformatics tools are fragmented largely due to the key challenges with biological data and analysis which include: scaling of calculations, full data integration, interaction and visualization
+I think this is what has led to the current efforts to create a [bioinformatics software manifesto](https://github.com/pjotrp/bioinformatics). The manifesto states that bioinformatics tools are fragmented largely due to the key challenges with biological data and analysis which include: scaling of calculations, full data integration, interaction and visualization. It emphasizes on developing "small tools for bioinformatics". 
+
 The manifesto also aims at countering current trends where "institutes and companies create monolithic software solutions for end users". These tools are often exceedingly expensive and not interoperable with other tools in the same domain. It is a call to the Unix philosophy and practice 
 and the use of transparent open source licenses.
 
