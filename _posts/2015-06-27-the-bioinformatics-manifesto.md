@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: A case for the bioinformatics manifesto
+title: A case for a bioinformatics manifesto
 ---
 
 Software development can be a complex process and therefore [several software development approaches](http://www.quora.com/What-is-are-the-best-software-development-philosophy-ies), philosophies and principles have emerged. Many organisations ascribe to one or more of these approaches depending on the size of the development team and the nature of the problem or task. The Agile and the Unix philosophies have come to be widely adopted in most organisations and also by individual developers.
@@ -12,14 +12,12 @@ The [Agile manifesto](https://en.wikipedia.org/wiki/Agile_software_development) 
 
 With maturation as a scientific discipline, a pride in Unix and Linux tradition with a rich client base of biologists, you would be mistaken to think that most bioinformatics tools would embrace the Unix philosophy and apply the Agile process. Instead, the bioinformatics software field is often a thorny garden. The field is comparable to a half sinking ship that magically remains afloat and somehow manages to deliver cargo. Often the passengers take the wheel for an adrenaline serge with undesirable consequences.
 
-I think this is what has led to the current efforts to create a [bioinformatics software manifesto](https://github.com/pjotrp/bioinformatics). The manifesto states that bioinformatics tools are fragmented largely due to the key challenges with biological data and analysis which include: scaling of calculations, full data integration, interaction and visualization. It emphasizes on developing "small tools for bioinformatics". 
+An attempt to overcome the current challenges has led to establishment of a [bioinformatics software manifesto](https://github.com/pjotrp/bioinformatics). According to this manifesto, bioinformatics tools are fragmented due to challenges in integration, interaction and visualization of biological data as well as scaling of calculations. It emphasizes on developing what it calls "small tools for bioinformatics".
 
-The manifesto also aims at countering current trends where "institutes and companies create monolithic software solutions for end users". These tools are often exceedingly expensive and not interoperable with other tools in the same domain. It is a call to the Unix philosophy and practice 
-and the use of transparent open source licenses.
+The manifesto challenges and criticizes the current trends where "institutes and companies create monolithic software solutions for end users". These tools are often exceedingly expensive and not interoperable with other tools that are within the same domain. It calls for the adoption of the unix philosophy and the use of transparent open source licenses in bioinformatics.
 
-The manifesto goes a step further to address how to package and distribute bioinformatics tools. The current bioinformatics software packaging 
-system is broken. A URL is as good as the acceptance of the publication describing the tool(s). Thereafter, the tool is not maintained and even better,
-it disappears with total disregard to the current and potential users. Releases can be far between and collaboration is  non-existent.
+Bioinformatics software packaging system is broken and fragmented as well. A web resource is disregarded as soon as an 
+article is accepted in a journal. Where a tool exists, releases can be far between and collaboration is difficult or non-existent. The worst cases is where tools are developed without making use of a revision control mechanism. Small tools for bioinformatics calls for a standard approach to bioinformatics software packaging and distribution. 
 
 So will small tools for bioinformatics deliver? That remains to be seen. But first it has to gain a wide adoption and acceptance. As of this writing,
 48 bioinformaticians have [publicly signed the manifesto](https://github.com/pjotrp/bioinformatics). 
