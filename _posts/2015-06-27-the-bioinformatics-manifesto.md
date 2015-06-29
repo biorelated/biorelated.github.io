@@ -21,6 +21,6 @@ article is accepted in a journal. Where a tool exists, releases can be far betwe
 
 So will small tools for bioinformatics deliver? That remains to be seen. But first it has to gain a wide adoption and acceptance. As of this writing,
 48 bioinformaticians have [publicly signed the manifesto](https://github.com/pjotrp/bioinformatics). 
-It is a rational approach to start weeding and pruning the thorny garden of bioinformatics software. It does not advocate for new fangled ideas or philosophy, it is a call to remain true to tested approaches in software development.
+It sounds like a rational approach to start weeding and pruning the thorny garden of bioinformatics software.
 
 {% include twitter_plug.html %}
