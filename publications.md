@@ -9,3 +9,7 @@ Bonnal, R. J. P., Aerts, J., **Githinji, G.,** Goto, N., MacLean, D., Miller, C.
 Warimwe, G. M., Fegan, G., Musyoki, J. N., Newton, C. R. J. C., Opiyo, M., **Githinji, G.,** et al. (2012). [Prognostic indicators of life-threatening malaria are associated with distinct parasite variant antigen profiles. Science Translational Medicine, 4(129), 129ra45.] (http://doi.org/10.1126/scitranslmed.3003247)
 
 International Glossina Genome Initiative. (2014). [Genome sequence of the tsetse fly (Glossina morsitans): vector of African trypanosomiasis. Science, 344(6182), 380–386.] (http://doi.org/10.1126/science.1249656)
+
+##Conference presentations
+Githinji G, Prins P, Woodcroft B et al. Biogems: Challenges in distributed software development in bioinformatics [v1; not peer reviewed].
+F1000Research 2015,4(ISCB Comm J):282 (slides) (doi: 10.7490/f1000research.1110025.1)
